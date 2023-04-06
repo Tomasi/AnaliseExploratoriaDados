@@ -10,4 +10,4 @@ Esta análise exploratório compreende a importância de especialidades em diver
 
 # Materiais e Métodos
 
-Os dados são compostos pele setor de especialidade, quantidade de consultas apontadas no mês e o total de consulstas realizadas no fechamento do período.
+Os dados são compostos pelo setor de especialidade, quantidade de consultas apontadas no mês e o total de consultas realizadas no fechamento do período.
