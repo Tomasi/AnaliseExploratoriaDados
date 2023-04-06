@@ -7,3 +7,7 @@
 # Introdução
 
 Esta análise exploratório compreende a importância de especialidades em diversas áres da saúde e afim de traçar um perfil de maior procura em consultas com especilistas, utilizando como base o perído do 2º semestre de 2022. O open data disponibilizado pelo [Hospital das Clínicas de Pernambuco](https://www.gov.br/ebserh/pt-br/hospitais-universitarios/regiao-nordeste/hc-ufpe) será usado como ferramenta.
+
+# Materiais e Métodos
+
+Os dados são compostos pele setor de especialidade, quantidade de consultas apontadas no mês e o total de consulstas realizadas no fechamento do período.
