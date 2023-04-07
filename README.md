@@ -12,7 +12,7 @@ Esta análise exploratório compreende a importância de especialidades em diver
 
 Os dados são compostos pelo setor de especialidade, quantidade de consultas apontadas no mês e o total de consultas realizadas no fechamento do período.
 
-Colunas/Tipo
+###Colunas/Tipo
 
 Ambulatório (Especialidade) = Object
 
