@@ -40,5 +40,5 @@ Durante a analise exploratório, senti necessidade de limpar e formatar o datase
 
 # Histograma
 
-(https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/histograma.png)
+![histograma.png](https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/histograma.png)
 
