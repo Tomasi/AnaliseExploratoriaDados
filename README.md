@@ -50,17 +50,17 @@ O gráfico abaixo apresenta a frequência de atendimentos totais no perído, con
 
 # Tendências Centrais
 
-a.Mínimo : 5
+a. Mínimo : 5
 
-b.Máximo : 9468
+b. Máximo : 9468
 
-c.Média :  2345.612245
+c. Média :  2345.612245
 
-d.Mediana : 1882
+d. Mediana : 1882
 
-e.Moda : 832
+e. Moda : 832
 
-f.Desvio padrão : 2126.9891224914622
+f. Desvio padrão : 2126.9891224914622
 
-g.Variância : 4618334.450680272
+g. Variância : 4618334.450680272
 
