@@ -12,7 +12,11 @@ Esta análise exploratório compreende a importância de especialidades em diver
 
 Os dados são compostos pelo setor de especialidade, quantidade de consultas apontadas no mês e o total de consultas realizadas no fechamento do período.
 
-###Colunas/Tipo
+1.GoogleColab
+
+O Google Colab é um ambiente de desenvolvimento integrado (IDE) baseado na nuvem que permite a criação e execução de notebooks Jupyter usando o recurso de computação em nuvem do Google. Com o Google Colab, os usuários podem escrever e executar código Python diretamente no navegador, também possui recursos integrados para visualização de dados.
+
+2.Colunas/Tipo
 
 Ambulatório (Especialidade) = Object
 
