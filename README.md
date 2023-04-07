@@ -15,11 +15,19 @@ Os dados são compostos pelo setor de especialidade, quantidade de consultas apo
 Colunas/Tipo
 
 Ambulatório (Especialidade) = Object
+
 jul/2022 = numerico
+
 ago/2022 = numerico
+
 set/2022 = numerico
+
 out/2022 = numerico
+
 nov/2022 = numerico
+
 dez/2022 = numerico
+
 total    = numerico
+
 
