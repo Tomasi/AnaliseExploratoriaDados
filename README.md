@@ -40,6 +40,8 @@ Durante a analise exploratório, senti necessidade de limpar e formatar o datase
 
 # Histograma
 
+O gráfico abaixo apresenta a frequência de atendimentos totais no perído, considerando todas as especializações.
+
 ![histograma.png](https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/histograma.png)
 
 # CDFs
