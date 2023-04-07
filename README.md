@@ -42,3 +42,7 @@ Durante a analise exploratório, senti necessidade de limpar e formatar o datase
 
 ![histograma.png](https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/histograma.png)
 
+# CDFs
+
+![ecdf.png](https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/ecdf.png)
+
