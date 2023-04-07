@@ -34,4 +34,9 @@ dez/2022 = numerico
 
 total    = numerico
 
+# Extração e Limpeza de Dados
+
+Durante a analise exploratório, senti necessidade de limpar e formatar o dataset. Os tipos das colunas encontravam-se como 'object', comecei formatando os dados para seus tipos corretos. Com o objetivo de não "interferir" nos resultados, removi também a última linha do dataSet, que referia-se à sumarização das colunas.
+
+
 
