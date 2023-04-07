@@ -18,21 +18,21 @@ O Google Colab é um ambiente de desenvolvimento integrado (IDE) baseado na nuve
 
 2.Colunas/Tipo
 
-Ambulatório (Especialidade) = Object
+Ambulatório (Especialidade) = Categórico
 
-jul/2022 = numerico
+jul/2022 = Quantitativo
 
-ago/2022 = numerico
+ago/2022 = Quantitativo
 
-set/2022 = numerico
+set/2022 = Quantitativo
 
-out/2022 = numerico
+out/2022 = Quantitativo
 
-nov/2022 = numerico
+nov/2022 = Quantitativo
 
-dez/2022 = numerico
+dez/2022 = Quantitativo
 
-total    = numerico
+total    = Quantitativo
 
 # Extração e Limpeza de Dados
 
