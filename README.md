@@ -46,3 +46,19 @@ Durante a analise exploratório, senti necessidade de limpar e formatar o datase
 
 ![ecdf.png](https://github.com/Tomasi/AnaliseExploratoriaDados/blob/master/ecdf.png)
 
+# Tendências Centrais
+
+a.Mínimo : 5
+
+b.Máximo : 9468
+
+c.Média :  2345.612245
+
+d.Mediana : 1882
+
+e.Moda : 832
+
+f.Desvio padrão : 2126.9891224914622
+
+g.Variância : 4618334.450680272
+
